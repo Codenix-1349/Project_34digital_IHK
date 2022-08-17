@@ -11,7 +11,7 @@ import { FetchDataComponent } from './fetch-data/fetch-data.component';
 import { LoginComponent } from './login/login.component';
 import { ItemsComponent } from './items/items.component';
 import { DetailComponent } from './detail/detail.component';
-import { ModalComponent } from './modal/modal.component';
+
 
 
 @NgModule({
@@ -24,7 +24,7 @@ import { ModalComponent } from './modal/modal.component';
     LoginComponent,
     ItemsComponent,
     DetailComponent,
-    ModalComponent,
+    
     
   ],
   imports: [
